@@ -4,15 +4,6 @@ This project is a full-stack visual pipeline editor built using **React** (front
 
 ---
 
-## 🌐 Live Demo
-
-> 🎯 Deployed using [Railway](https://railway.app)
-
-- **Frontend**: [https://your-frontend.up.railway.app](https://your-frontend.up.railway.app)
-- **Backend**: [https://your-backend.up.railway.app](https://your-backend.up.railway.app)
-
----
-
 ## 🗂️ Folder Structure
 
 ```
